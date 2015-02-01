@@ -89,3 +89,8 @@ Quickly change date:
 
   sudo date +%Y%m%d -s "20141219"
 
+Download and execute a script:
+ 
+.. code :: bash
+ 
+  wget -O - https://raw.githubusercontent.com/ivankliuk/scripts/master/postinstall.sh | bash
