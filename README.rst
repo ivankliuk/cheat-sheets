@@ -3,6 +3,10 @@ Cheat Sheets
 
 Homemade cheat sheets.
 
+Architecture
+------------
+| `Latency numbers every programmer should know <https://gist.github.com/jboner/2841832#file-latency-txt>`_
+
 Unix
 ----
 | `Bash <https://github.com/ivankliuk/cheat-sheets/blob/master/unix/bash.rst>`_
