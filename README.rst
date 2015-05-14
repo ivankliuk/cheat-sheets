@@ -12,6 +12,7 @@ Unix
 | `Bash <https://github.com/ivankliuk/cheat-sheets/blob/master/unix/bash.rst>`_
 | `Vim basics <https://github.com/ivankliuk/cheat-sheets/blob/master/unix/vim.rst>`_
 | `Tmux <https://github.com/ivankliuk/cheat-sheets/blob/master/unix/tmux.rst>`_
+| `SSH <https://github.com/ivankliuk/cheat-sheets/blob/master/unix/ssh.rst>`_
 
 Revision Control Systems
 ------------------------
