@@ -94,3 +94,9 @@ Download and execute a script:
 .. code :: bash
  
   wget -O - https://raw.githubusercontent.com/ivankliuk/scripts/master/postinstall.sh | bash
+
+Check exit code of the last executed command:
+
+.. code :: bash
+  
+  echo $?
