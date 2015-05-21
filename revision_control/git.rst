@@ -75,3 +75,8 @@ Pushes local HEAD to remote branch.
 
   git push origin HEAD:IPD-182
 
+Download a remote branch:
+
+.. code :: bash
+  
+  git checkout -t origin/branch-name
