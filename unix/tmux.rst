@@ -29,3 +29,10 @@ Panels
 | <prefix-key>(hold) →←↑↓ — change size of the current panel
 | <prefix-key> x — close panel (or just type exit in terminal)
 | <prefix-key> z — toggle zoom current panel
+
+Scroll mode
+```````````
+
+| <prefix-key> [ — entering to scroll mode
+| →←↑↓ — navigate
+| q - leave scroll mode
