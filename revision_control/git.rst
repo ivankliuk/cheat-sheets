@@ -80,3 +80,9 @@ Download a remote branch:
 .. code :: bash
   
   git checkout -t origin/branch-name
+
+Change commit author at one specific commit:
+  
+.. code :: bash
+
+  git commit --amend --author="Ivan Kliuk <ivan.kliuk@gmail.com>"
