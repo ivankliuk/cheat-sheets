@@ -86,3 +86,9 @@ Change commit author at one specific commit:
 .. code :: bash
 
   git commit --amend --author="Ivan Kliuk <ivan.kliuk@gmail.com>"
+
+Show who changed certain lines of a file:
+
+.. code :: bash
+
+  git blame -L 1,15 79bae9e00 run_tests.sh
