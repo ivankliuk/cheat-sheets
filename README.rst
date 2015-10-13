@@ -26,7 +26,7 @@ Object Oriented Programming
 
 Python
 ------
-| `Interpreter <https://github.com/ivankliuk/cheat-sheets/blob/master/python/interpreter.py>`_
+| `Interpreter <https://github.com/ivankliuk/cheat-sheets/blob/master/python/interpreter.rst>`_
 | `Data types <https://github.com/ivankliuk/cheat-sheets/blob/master/python/data_types.py>`_
 | `Iterators and generators <https://github.com/ivankliuk/cheat-sheets/blob/master/python/iterators_and_generators.py>`_
 | `Itertools module <https://github.com/ivankliuk/cheat-sheets/blob/master/python/iter_tools.py>`_
