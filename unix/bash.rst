@@ -100,3 +100,9 @@ Check exit code of the last executed command:
 .. code :: bash
   
   echo $?
+
+Pretty-print of JSON output:
+
+.. code :: bash
+  
+  cat my_json.json | python -m json.tool
