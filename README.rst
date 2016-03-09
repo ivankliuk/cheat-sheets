@@ -46,3 +46,7 @@ Haskell
 | `REPL (GHCI) <https://github.com/ivankliuk/cheat-sheets/blob/master/haskell/ghci.rst>`_
 | `Basics <https://github.com/ivankliuk/cheat-sheets/blob/master/haskell/basics.rst>`_
 | `Typing <https://github.com/ivankliuk/cheat-sheets/blob/master/haskell/typing.rst>`_
+
+Correspondence
+--------------
+| `Closing emails <https://github.com/ivankliuk/cheat-sheets/blob/master/correspondence/closing_emails.rst>`_
