@@ -106,3 +106,9 @@ Pretty-print of JSON output:
 .. code :: bash
   
   cat my_json.json | python -m json.tool
+
+Add a user to 'wheel' group:
+
+.. code :: bash
+
+  sudo usermod -aG wheel user123
