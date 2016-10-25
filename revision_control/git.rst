@@ -92,3 +92,9 @@ Show who changed certain lines of a file:
 .. code :: bash
 
   git blame -L 1,15 79bae9e00 run_tests.sh
+
+Undo ``git add`` without changing anything else:
+
+.. code :: bash
+
+  git reset shared/build.gradle
