@@ -98,3 +98,10 @@ Undo ``git add`` without changing anything else:
 .. code :: bash
 
   git reset shared/build.gradle
+
+Comparing two branches:
+
+.. code :: bash
+
+  git diff branch_1..branch_2
+
