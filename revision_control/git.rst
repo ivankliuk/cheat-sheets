@@ -19,6 +19,18 @@ Don't do it if you have uncommitted work you want to keep.
 .. code :: bash
 
   git reset --hard 0d1d7fc32
+  
+To undo ``git add .``:
+
+.. code :: bash
+  
+  git reset
+  
+Undo ``git add`` without changing anything else:
+
+.. code :: bash
+
+  git reset shared/build.gradle
 
 Rebasing current branch with ``master``:
 
@@ -93,15 +105,10 @@ Show who changed certain lines of a file:
 
   git blame -L 1,15 79bae9e00 run_tests.sh
 
-Undo ``git add`` without changing anything else:
-
-.. code :: bash
-
-  git reset shared/build.gradle
-
 Comparing two branches:
 
 .. code :: bash
 
   git diff branch_1..branch_2
+
 
